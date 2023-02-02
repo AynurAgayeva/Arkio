@@ -1,0 +1,27 @@
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+
+body,
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+.testimonial .card-body {
+  background-image: url(https://wpocean.com/html/tf/arkio/assets/images/testimonial/bg.png);
+}
+
+.blog {
+  background-image: url(https://wpocean.com/html/tf/arkio/assets/images/blog/Vector2.png);
+}
+
+.gallery {
+  background-image: url(https://wpocean.com/html/tf/arkio/assets/images/footer.jpg);
+}/*# sourceMappingURL=style.css.map */
